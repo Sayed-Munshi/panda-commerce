@@ -1,0 +1,37 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+}
+
+.subscribe-style{
+    background-color: #fceae8;
+    height: 350px;
+    border-radius: 20px;
+}
+.subscribe-text h1{
+    font-weight: 400;
+    font-size: 35px;
+}
+.subscribe-text h6{
+    color: rgba(194, 31, 31, 0.829);
+}
+.subscribe-text input{
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    height: 40px;
+}
